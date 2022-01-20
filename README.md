@@ -1,5 +1,5 @@
-# threetwo
-A combination of two to three special characters used as syntax.
+# doubleup
+Combinations of two or three special characters are wiki syntaxes.
 
 ## Links
 [\[ ]\]\
